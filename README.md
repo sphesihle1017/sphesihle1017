@@ -50,7 +50,7 @@ I’m passionate about building clean, scalable applications and bringing ideas 
 
 # 🚀 **Featured Projects**
 
-## 🩺 **Ward Management System — Featured by Nelson Mandela University**
+## 🩺 **Ward Management System — Final Year Project**
 
 🔗 **Live System:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
 🛠 **Tech:** ASP.NET MVC (3-tier architecture), SQL Server
