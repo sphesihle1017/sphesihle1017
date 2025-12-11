@@ -6,7 +6,6 @@
 
 </p>
 
----
 
 # 👋 **Hey, I'm Sphesihle**
 
@@ -18,35 +17,18 @@
 I specialize in **ASP.NET MVC (3-tier architecture)**, **C#**, **SQL Server**, and modern **front-end web technologies**.
 I’m passionate about building clean, scalable applications and bringing ideas to life through code.
 
----
 
-# ⚡ **Tech Stack**
 
-### 🔹 Languages
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,python" />
-</p>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔹 Web
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 🔹 Databases
 
-<p align="left">
- <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
-</p>
-
-### 🔹 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,github,powershell" />
-</p>
-
----
 
 # 🚀 **Featured Projects**
 
@@ -64,7 +46,7 @@ A full hospital ward management system built with a layered architecture:
 <img width="720" height="500" alt="Capture1" src="https://github.com/user-attachments/assets/1c942de5-cb94-42f7-bfd1-2a615ed3e6a6" />
 </p>
 
----
+
 
 ## 🛍️ **E-Commerce Web App Prototype**
 
@@ -78,7 +60,7 @@ A full hospital ward management system built with a layered architecture:
 <p align="center">
 <img width="720" height="500" alt="Home" src="https://github.com/user-attachments/assets/c65f65ad-fb9a-4a4a-9c28-05e7075a960a" />
 </p>
----
+
 
 ## 🐍 **Mini Snake Game — Python (Pygame)**
 
@@ -95,19 +77,18 @@ A full hospital ward management system built with a layered architecture:
  <img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/6545bf53-2563-409d-be25-811e92aa7e77" />
 </p>
 
----
 
-## 📊 **Data Visualization Project**
+
+## 📊 **Data Visualization **
 
 🛠 **Tech:** Python (Pandas, NumPy,Seaborn)
 
 ✔ Cleaned & transformed datasets
-✔ Data analysis and dashboards
 ✔ Insight extraction and visualization
 <p align="center">
 <img width="720" height="400" alt="CaptureS" src="https://github.com/user-attachments/assets/824df360-013d-4299-a406-9598b7a64688" />
 </p>
----
+
 
 # 📫 **Connect With Me**
 
@@ -123,7 +104,7 @@ A full hospital ward management system built with a layered architecture:
   </a>
 </p>
 
----
+
 
 # 🌟 **Quote**
 
