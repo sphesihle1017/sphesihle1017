@@ -1,4 +1,4 @@
-# 🌑 **Sphesihle Shezi **
+# 💻 **Sphesihle Shezi**
 
 <p align="center">
   <img width="1080" height="720" alt="ChatGPT Image Dec 11, 2025, 09_09_29 AM" src="https://github.com/user-attachments/assets/cdb36702-1365-4342-aa38-be289b2f639f" />
