@@ -9,13 +9,24 @@
 
 # 👋 **Hey, I'm Sphesihle**
 
-💻 **Web & Software Developer**
+💻 **Web & Software Developer | ASP.NET MVC | SQL | C#  | Problem Solver | Continuous Learner |**
 🎓 **Diploma in Information Technology (Software Development)**
 📅 **Graduating April 2026**
 🌍 **South Africa**
 
-I specialize in **ASP.NET MVC (3-tier architecture)**, **C#**, **SQL Server**, and modern **front-end web technologies**.
-I’m passionate about building clean, scalable applications and bringing ideas to life through code.
+I am an aspiring Software Developer with hands-on experience building web applications using ASP.NET MVC, C#, SQL Server, HTML, CSS, and JavaScript. I enjoy turning ideas into functional, user-friendly systems and solving real-world problems through clean, efficient code.
+
+I’ve created full-stack projects including an authentication system, a personal portfolio, and database-driven applications. I am continuously improving my skills and exploring advanced concepts such as APIs, data modelling, UI/UX, and scalable architecture.
+
+I am passionate about:
+
+Building reliable and maintainable software
+
+Improving system performance
+
+Learning new tools and frameworks
+
+Contributing to high-performing, collaborative teams
 
 
 
@@ -34,7 +45,7 @@ I’m passionate about building clean, scalable applications and bringing ideas 
 
 ## 🩺 **Ward Management System — Final Year Project**
 
-🔗 **Live System:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
+🔗 **Currently Live:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
 🛠 **Tech:** ASP.NET MVC (3-tier architecture), SQL Server
 
 A full hospital ward management system built with a layered architecture:
@@ -59,6 +70,9 @@ A full hospital ward management system built with a layered architecture:
 
 <p align="center">
 <img width="720" height="500" alt="Home" src="https://github.com/user-attachments/assets/c65f65ad-fb9a-4a4a-9c28-05e7075a960a" />
+
+                                    please note this project is still under construction
+
 </p>
 
 
