@@ -1,4 +1,4 @@
-# 💻 **Sphesihle Shezi**
+  # 💻 **Sphesihle Shezi**
 
 <p align="center">
   <img width="1080" height="720" alt="ChatGPT Image Dec 11, 2025, 09_09_29 AM" src="https://github.com/user-attachments/assets/cdb36702-1365-4342-aa38-be289b2f639f" />
@@ -7,13 +7,11 @@
 </p>
 
 
-# 👋 **Hey, I'm Sphesihle**
+👋 ***Hey, I'm Sphesihle***
 
-💻 **Web & Software Developer | ASP.NET MVC | SQL | C#  | Problem Solver | Continuous Learner |**
-🎓 **Diploma in Information Technology (Software Development)**
-📅 **Graduating April 2026**
-🌍 **South Africa**
+**Graduate Software Developer | ASP.NET MVC | SQL | C# | Problem Solver | Continuous Learner | 🎓 Diploma in Information Technology (Software Development) | 🌍 South Africa**
 
+---
 I am an aspiring Software Developer with hands-on experience building web applications using ASP.NET MVC, C#, SQL Server, HTML, CSS, and JavaScript. I enjoy turning ideas into functional, user-friendly systems and solving real-world problems through clean, efficient code.
 
 I’ve created full-stack projects including an authentication system, a personal portfolio, and database-driven applications. I am continuously improving my skills and exploring advanced concepts such as APIs, data modelling, UI/UX, and scalable architecture.
@@ -71,7 +69,7 @@ A full hospital ward management system built with a layered architecture:
 <p align="center">
 <img width="720" height="500" alt="Home" src="https://github.com/user-attachments/assets/c65f65ad-fb9a-4a4a-9c28-05e7075a960a" />
 
-                                    please note this project is still under construction
+                                    Please note this project is still under construction (70% done)
 
 </p>
 
@@ -93,7 +91,7 @@ A full hospital ward management system built with a layered architecture:
 
 
 
-## 📊 **Data Visualization **
+# 📊 **Data Visualization**
 
 🛠 **Tech:** Python (Pandas, NumPy,Seaborn)
 
