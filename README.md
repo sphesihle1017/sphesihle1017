@@ -1,4 +1,4 @@
-  # 💻 **Sphesihle Shezi**
+  #  **Sphesihle Shezi**
 
 <p align="center">
   <img width="1080" height="720" alt="ChatGPT Image Dec 11, 2025, 09_09_29 AM" src="https://github.com/user-attachments/assets/cdb36702-1365-4342-aa38-be289b2f639f" />
@@ -7,9 +7,9 @@
 </p>
 
 
-👋 ***Hey, I'm Sphesihle***
+***Hey, I'm Sphesihle***
 
-**Graduate Software Developer | ASP.NET MVC | SQL | C# | Problem Solver | Continuous Learner | 🎓 Diploma in Information Technology (Software Development) | 🌍 South Africa**
+**Graduate Software Developer | ASP.NET MVC | SQL | C# | Problem Solver | Continuous Learner | Diploma in Information Technology (Software Development) |  South Africa**
 
 ---
 I am an aspiring Software Developer with hands-on experience building web applications using ASP.NET MVC, C#, SQL Server, HTML, CSS, and JavaScript. I enjoy turning ideas into functional, user-friendly systems and solving real-world problems through clean, efficient code.
@@ -28,7 +28,7 @@ Contributing to high-performing, collaborative teams
 
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
@@ -39,12 +39,12 @@ Contributing to high-performing, collaborative teams
 
 
 
-# 🚀 **Featured Projects**
+#  **Featured Projects**
 
-## 🩺 **Ward Management System — Final Year Project**
+##  **Ward Management System — Final Year Project**
 
-🔗 **Currently Live:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
-🛠 **Tech:** ASP.NET MVC (3-tier architecture), SQL Server
+ **Currently Live:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
+ **Tech:** ASP.NET MVC (3-tier architecture), SQL Server
 
 A full hospital ward management system built with a layered architecture:
 ✔ Patient, ward & staff CRUD
@@ -57,9 +57,9 @@ A full hospital ward management system built with a layered architecture:
 
 
 
-## 🛍️ **E-Commerce Web App Prototype**
+##  **E-Commerce Web App Prototype**
 
-🛠 **Tech:** HTML, CSS, JavaScript, Bootstrap
+ **Tech:** HTML, CSS, JavaScript, Bootstrap
 
 ✔ Clean and responsive UI
 ✔ User-friendly navigation
@@ -74,9 +74,9 @@ A full hospital ward management system built with a layered architecture:
 </p>
 
 
-## 🐍 **Mini Snake Game — Python (Pygame)**
+##  **Mini Snake Game — Python (Pygame)**
 
-🛠 **Tech:** Python, Pygame
+ **Tech:** Python, Pygame
 
 ✔ Classic snake gameplay
 ✔ Real-time movement
@@ -91,9 +91,9 @@ A full hospital ward management system built with a layered architecture:
 
 
 
-# 📊 **Data Visualization**
+#  **Data Visualization**
 
-🛠 **Tech:** Python (Pandas, NumPy,Seaborn)
+ **Tech:** Python (Pandas, NumPy,Seaborn)
 
 ✔ Cleaned & transformed datasets
 ✔ Insight extraction and visualization
@@ -102,7 +102,7 @@ A full hospital ward management system built with a layered architecture:
 </p>
 
 
-# 📫 **Connect With Me**
+#  **Connect With Me**
 
 <p align="center">
   <a href="https://linkedin.com/in/sphesihleshezi1017">
@@ -118,6 +118,6 @@ A full hospital ward management system built with a layered architecture:
 
 
 
-# 🌟 **Quote**
+#  **Quote**
 
 > *“Intelligence is the ability to adapt to change”*
