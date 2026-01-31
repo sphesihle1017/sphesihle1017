@@ -69,8 +69,8 @@ A full hospital ward management system built with a layered architecture:
 <p align="center">
 <img width="720" height="500" alt="Home" src="https://github.com/user-attachments/assets/c65f65ad-fb9a-4a4a-9c28-05e7075a960a" />
 
-                                    Please note this project is still under construction.
-                                    The repository is currently Private
+                               Please note this project is still under construction.The repository is currently private.
+                                    
 
 </p>
 
