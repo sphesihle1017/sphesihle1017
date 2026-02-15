@@ -44,10 +44,11 @@ Contributing to high-performing, collaborative teams
 ##  **Ward Management System — Final Year Project**
 
  **Currently Live:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)
- **Tech:** ASP.NET MVC (3-tier architecture), SQL Server
+ **Tech:** ASP.NET MVC , SQL Server, HTML, CSS, JavaScript, Bootstrap
 
-A full hospital ward management system built with a layered architecture:
+A full hospital ward management system built with a 3-tier architecture:
 ✔ Patient, ward & staff CRUD
+✔ Role based authentication
 ✔ SQL Server integration
 ✔ Proper business logic and data access separation
 ✔ Hosted on the official university server
@@ -59,12 +60,12 @@ A full hospital ward management system built with a layered architecture:
 
 ##  **E-Commerce Web App Prototype**
 
- **Tech:** HTML, CSS, JavaScript, Bootstrap
+ **Tech:** HTML, CSS, JavaScript, Bootstrap C#, ASP.NET MVC, SQL
 
 ✔ Clean and responsive UI
 ✔ User-friendly navigation
 ✔ Product display and UI interactions
-✔ Designed for future backend integration
+✔ Real Time Cart processing and Payment API
 
 <p align="center">
 <img width="720" height="500" alt="Home" src="https://github.com/user-attachments/assets/c65f65ad-fb9a-4a4a-9c28-05e7075a960a" />
