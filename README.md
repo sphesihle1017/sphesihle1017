@@ -56,6 +56,24 @@ A full hospital ward management system built with a 3-tier architecture:
 <img width="720" height="500" alt="Capture1" src="https://github.com/user-attachments/assets/1c942de5-cb94-42f7-bfd1-2a615ed3e6a6" />
 </p>
 
+##  **Azure Hotels — Booking & Management System**
+
+ **Tech:** ASP.NET MVC, C#, Entity Framework, SQL Server, HTML, CSS, JavaScript, Bootstrap
+
+A full-featured hotel management web application with role-based access control. It provides a seamless experience for both administrators managing the property and customers making reservations.
+
+**Key Features:**
+-   **Role-Based Authentication:** Separate secure logins and dashboards for **Admins** and **Customers**.
+-   **Admin Panel:** Authorized personnel can perform full CRUD operations on **Rooms**, manage all **Bookings**, and view registered **Customers**.
+-   **Customer Portal:** Registered users can browse available rooms, make new bookings, view their booking history, and cancel upcoming reservations.
+-   **Database Integration:** Built with the **Entity Framework (Code-First)** approach to model the relationships between Rooms, Bookings, and Application Users in a **SQL Server** database.
+-   **Responsive UI:** Clean and intuitive interface built with Bootstrap for a smooth experience on any device.
+
+<p align="center">
+<img width="720" alt="Azure Hotels - Admin Dashboard Preview" src="" />
+<br />
+</p>
+
 
 
 ##  **E-Commerce Web App Prototype**
