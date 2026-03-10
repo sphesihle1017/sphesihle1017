@@ -1,7 +1,7 @@
 # **Sphesihle Shezi**
 
 <p align="center">
-  <img width="1080" height="720" alt="6aee143b6c4846b2b2e35f967952d88a" src="https://github.com/user-attachments/assets/57504f9c-b1c3-4f55-81d7-6b0f8f35484a" />
+<img width="680" height="700" alt="6aee143b6c4846b2b2e35f967952d88a" src="https://github.com/user-attachments/assets/9da43283-6945-45ab-a628-813168b91267" />
 </p>
 
 ---
