@@ -1,8 +1,6 @@
-# **Sphesihle Shezi**
 
----
 
-***Hey, I'm Sphesihle***
+# Hey, I'm Sphesihle
 
 **Graduate Software Developer | ASP.NET MVC | SQL | C# | Problem Solver | Continuous Learner | Diploma in Information Technology (Software Development) | South Africa**
 
@@ -39,7 +37,6 @@ I've created full-stack projects including an authentication system, a personal 
 
 ## Ward Management System — Final Year Project
 
-**Currently Live:** [http://soit-iis.mandela.ac.za/GRP-03-25](http://soit-iis.mandela.ac.za/GRP-03-25)  
 **Tech:** ASP.NET MVC, SQL Server, HTML, CSS, JavaScript, Bootstrap
 
 A comprehensive hospital ward management system built with a 3-tier architecture:
