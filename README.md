@@ -4,7 +4,6 @@
 
 **Graduate Software Developer | ASP.NET MVC | SQL | C# | Problem Solver | Continuous Learner | Diploma in Information Technology (Software Development) | South Africa**
 
----
 
 I am a Software Developer with hands-on experience building web applications using ASP.NET MVC, C#, SQL Server, HTML, CSS, and JavaScript. I enjoy turning ideas into functional, user-friendly systems and solving real-world problems through clean, efficient code.
 
