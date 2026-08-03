@@ -64,9 +64,7 @@ A full-featured hotel management web application with role-based access control,
 - **Database Integration:** Entity Framework (Code-First) approach modeling relationships between rooms, bookings, and users in SQL Server
 - **Responsive UI:** Bootstrap-powered interface optimized for all devices
 
-<p align="center">
-  <img width="720" height="540" alt="Azure Hotels Admin Dashboard" src="https://github.com/user-attachments/assets/9c1d28e6-d73b-4152-864d-e280a9bf7046" />
-</p>
+<img width="959" height="595" alt="Screenshot 2026-08-03 115939" src="https://github.com/user-attachments/assets/0fae5f0b-02fe-4576-a5d7-e4aad1b9f30d" />
 
 ---
 
